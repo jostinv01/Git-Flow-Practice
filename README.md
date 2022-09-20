@@ -4,8 +4,8 @@
 
 ## Directions
 
-- [ ] Create your own fork (copy) of this repository by clicking the Fork button in the top right of Github
-- [ ] Clone (download) this repository onto your computer by using this command in your CLI: `git clone git@github.com:YOUR-GITHUB-NAME/Git-Flow-Practice.git`
+- [x] Create your own fork (copy) of this repository by clicking the Fork button in the top right of Github
+- [x] Clone (download) this repository onto your computer by using this command in your CLI: `git clone git@github.com:YOUR-GITHUB-NAME/Git-Flow-Practice.git`
 - [ ] Create a branch (version) by using this command in your CLI: `git checkout -b 'firstName-lastName'`
 - [ ] Add your name to the list of names below these instructions
 - [ ] Send your code to Github by using this set of commands in your CLI: `git add .`, `git commit -m "type a message in here explaining what you changed"`, and `git push`
@@ -16,5 +16,6 @@
 ## ADD your name to this list
 - Steve Rogers
 - Ryan Hamblin
+- Jostin Vazquez
 
 ### For a non-practice project, this would be when you would submit through Canvas; for this one, once you've added your name to the list and created a Pull Request you're done- no submission required!
